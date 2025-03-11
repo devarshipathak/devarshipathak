@@ -48,32 +48,32 @@
 ###
 
 <div align="left">
-  <a href="hire.devarshipathak@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/devarshi-pathak-456177219/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:devarshi4801@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWozcWdldmxjcDU0cXljZ3MwcWkxaGM0OTQ3dGxzMTJmOXZlOHZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5wMGdnZXoxOHN2emYwaWt0aWlvdmRjOTFrNmp3ODl1MjZjYnRvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif"  />
 
 ###
 
-<p align="left">public class AboutMe {<br><br>    public static void main(String[] args) {<br>        String bio = """<br>                👋 Hello, I'm a Java Developer with a passion for solving complex problems and creating impactful software.<br>                <br>                🛠️ Skills: Java, Spring Boot, REST APIs, MySQL, OOP, Clean Code, Git.<br>                🎯 Current Focus: Mastering backend development and system design.<br>                🚀 Open to: Full-time roles where I can contribute, learn, and grow within a collaborative team.<br>                <br>                Let's build something great together! Feel free to reach out.<br>                """;<br><br>        System.out.println(bio);<br>    }<br>}</p>
+<p align="left">public class AboutMe {<br><br>    public static void main(String[] args) {<br><br>        String bio = """<br>                👋 Hello, I'm a Java Developer with a passion for solving complex problems and creating impactful software.<br>                🛠️ Skills: Java, Spring Boot, REST APIs, MySQL, OOP, Clean Code, Git.<br>                🎯 Current Focus: Mastering backend development and system design.<br>                🚀 Open to: Full-time roles where I can contribute, learn, and grow within a collaborative team.<br>      Let's build something great together! Feel free to reach out.<br>                """;<br>       System.out.println(bio);<br>    }<br>}</p>
 
 ###
 
 <br clear="both">
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devarshipathak/devarshipathak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devarshipathak/devarshipathak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/devarshipathak/devarshipathak/output/github-snake.svg" />
 </picture>
+
+
 
 ###
 
